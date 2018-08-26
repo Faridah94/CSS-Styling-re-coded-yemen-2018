@@ -68,3 +68,8 @@ text-shadow: 0 2px 3px #000;
    color: blue;
    text-decoration: underline;
  }
+ 
+ #details a:active{
+   color: pink;
+   text-decoration: none;
+ }
