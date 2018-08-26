@@ -31,6 +31,7 @@ figcaption{
 }
 
 /*Class selector(applied to as many elements as you like)*/
+
 .milk-text{/*select elements with class="milk-text"*/
 font: bold 2.6em 'Elsie Swash Caps', cursive ;
 color: white;
@@ -39,6 +40,6 @@ text-shadow: 0 2px 3px #000;
 }
  /*ID selector(apply to one unique  element per apage)*/
  
- #logo{
+ #logo{/*select elements with id="logo"*/
    
  }
