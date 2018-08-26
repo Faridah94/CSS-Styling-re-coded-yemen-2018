@@ -63,3 +63,8 @@ text-shadow: 0 2px 3px #000;
    color: red;
    text-decoration: none;
  }
+ 
+ #details a:hover{
+   color: red;
+   text-decoration: none;
+ }
