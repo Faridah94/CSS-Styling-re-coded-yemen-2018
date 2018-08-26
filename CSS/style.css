@@ -48,6 +48,9 @@ text-shadow: 0 2px 3px #000;
  #logo h1 {/* select <h1> if inside the id="logo"*/
       font-family: 'Clicker Script', cursive;
  }
+ #logo h2 {/* select <h1> if inside the id="logo"*/
+      font-family: 'Clicker Script', cursive;
+ }
  
  
  
