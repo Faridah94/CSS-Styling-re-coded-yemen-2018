@@ -55,6 +55,7 @@ text-shadow: 0 2px 3px #000;
   /*Psuedo selector*/
 
  #details a:link{
-   
+   color: black;
+   text-decoration: none;
  }
  
